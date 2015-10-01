@@ -1,5 +1,11 @@
 
 
+## 1.1.1 - 2015-10-02
+- Release v1.1.1 / npm@v1.1.1
+- update package.json description
+- add examples/generators.js
+- fix related links
+
 ## 1.1.0 - 2015-09-29
 - Release v1.1.0 / npm@v1.1.0
 - use `merz` and `redolent`
