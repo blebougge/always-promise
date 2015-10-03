@@ -2,6 +2,9 @@
 
 ## 1.1.1 - 2015-10-02
 - Release v1.1.1 / npm@v1.1.1
+- add tests for passing custom promise module through static properties
+- update docs
+- allow pass promise module through static properties (as seen in `redolent`)
 - update package.json description
 - add examples/generators.js
 - fix related links
